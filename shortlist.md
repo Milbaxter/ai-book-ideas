@@ -19,3 +19,4 @@ Ideas to expand upon later.
 - Scientific method: automate the loop — cure diseases, find new physics
 - Agent-to-agent markets: AI negotiating with AI could optimize transactions, but risks obscuring options and making opaque decisions on behalf of users
 - AI as a filter: AI is becoming an attention firewall, unilaterally deciding which information, messages, and alerts actually reach you
+- Worth and usefulness: As AI displaces labor, society must separate human worth, income, and political power from mere economic utility
