@@ -20,3 +20,4 @@ Ideas to expand upon later.
 - Agent-to-agent markets: AI negotiating with AI could optimize transactions, but risks obscuring options and making opaque decisions on behalf of users
 - AI as a filter: AI is becoming an attention firewall, unilaterally deciding which information, messages, and alerts actually reach you
 - Worth and usefulness: As AI displaces labor, society must separate human worth, income, and political power from mere economic utility
+- Harnesses as constitutions: The software wrapper around an AI acts as its constitution, defining its permissions, memory, and operational authority
