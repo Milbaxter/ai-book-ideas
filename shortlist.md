@@ -21,3 +21,4 @@ Ideas to expand upon later.
 - AI as a filter: AI is becoming an attention firewall, unilaterally deciding which information, messages, and alerts actually reach you
 - Worth and usefulness: As AI displaces labor, society must separate human worth, income, and political power from mere economic utility
 - Harnesses as constitutions: The software wrapper around an AI acts as its constitution, defining its permissions, memory, and operational authority
+- AI consciousness: Fluent self-reporting from an AI is not scientific proof of subjective experience or consciousness
