@@ -12,3 +12,4 @@ Ideas to expand upon later.
 - Why local AI important
 - Abundance future likely
 - Risk of not doing AI is higher than doing AI
+- Accelerating AI on all levels of the stack (hardware, software, etc.)
