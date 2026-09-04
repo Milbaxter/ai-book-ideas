@@ -16,3 +16,4 @@ Ideas to expand upon later.
 - New way of using computers: just talking with it (Linux)
 - Hacking you personally wasn't worth it before, but now it is
 - AI-generated media and dead internet theory
+- Scientific method: automate the loop — cure diseases, find new physics
