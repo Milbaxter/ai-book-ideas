@@ -17,3 +17,4 @@ Ideas to expand upon later.
 - Hacking you personally wasn't worth it before, but now it is
 - AI-generated media and dead internet theory
 - Scientific method: automate the loop — cure diseases, find new physics
+- Agent-to-agent markets: AI negotiating with AI could optimize transactions, but risks obscuring options and making opaque decisions on behalf of users
